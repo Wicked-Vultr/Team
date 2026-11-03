@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" role="img" aria-labelledby="title desc">
+<title id="title">Wicked Vultr — Sharp minds. Real execution.</title>
+<desc id="desc">White and coral watchful vulture beside the team name and motto on a deep ink background.</desc>
+<rect width="1600" height="300" fill="#10222E"/>
+<g transform="translate(52 25) scale(1.12)"><path fill="#FFFFFF" d="M151 93 129 73 30 37 53 94 101 123 69 116 95 151 126 155 145 183 169 183 192 156 222 150 249 116 218 125 267 94 292 38 195 76 174 97 164 130Z"/><path fill="#FF6748" d="M149 109C151 92 156 80 167 65 176 53 169 44 168 40 165 28 175 18 190 21L207 29 218 45 204 55 206 40 190 37C185 45 190 51 187 62 184 75 175 83 177 99L184 123 165 153Z"/><path fill="#FFFFFF" d="m145 180-9 15 20-5 14 5 12-15Z"/></g>
+<text x="450" y="130" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">WICKED VULTR</text>
+<text x="452" y="204" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38"><tspan fill="#FF6748">›</tspan> Sharp minds. <tspan fill="#FF6748">›</tspan> Real execution.</text>
+</svg>
