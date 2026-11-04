@@ -26,7 +26,7 @@ AI/LLM builders teaming up for [Vultr: Agent Rush](https://lablab.ai/ai-hackatho
 
 Favor Future of Work for delivery simplicity. Choose Blast Radius Zero if we establish the sandbox and containment demonstration early. Vultr's [playbook](https://community.vultr.com/e/vultr-agent-rush-hackathon) calls it the main challenge.
 
-[Build priorities and judging](hackathon/REQUIREMENTS-REVIEW.md) · [Submission checklist](hackathon/SUBMISSION-CHECKLIST.md) · [Official challenge details](https://lablab.ai/ai-hackathons/vultr-hackathon#2)
+[Build priorities and judging](hackathon/REQUIREMENTS.md) · [Submission checklist](hackathon/SUBMISSION.md) · [Official challenge details](https://lablab.ai/ai-hackathons/vultr-hackathon#2)
 
 **Deliver:** public repo, reproducible setup, descriptions, cover, PDF slides and demo video. [Delivery guide](https://lablab.ai/delivering-your-hackathon-solution): MP4 up to 300 MB and five minutes. Submit on lablab.
 

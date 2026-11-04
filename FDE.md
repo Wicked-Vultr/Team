@@ -62,7 +62,7 @@ Use **SQLite for the PoC**, a central controller, customer-initiated connector, 
 - **Persistence:** use local-disk SQLite, short serialized writes, WAL and tested backups. Verify a runtime with the WAL-reset fix. Add separately controlled checkpoints/storage for tamper-resistant retention.
 - **Demo environment:** begin with distinct synthetic customer/vendor systems. Confirm customer-local connectors and credentialed adapter operations with organizers before choosing the hackathon topology.
 
-References: [Docker security](https://docs.docker.com/engine/security/) · [resource limits](https://docs.docker.com/engine/containers/resource_constraints/) · [gVisor](https://gvisor.dev/docs/) · [SQLite WAL](https://sqlite.org/wal.html) · [organizer questions](hackathon/ORGANIZER-QA.md).
+References: [Docker security](https://docs.docker.com/engine/security/) · [resource limits](https://docs.docker.com/engine/containers/resource_constraints/) · [gVisor](https://gvisor.dev/docs/) · [SQLite WAL](https://sqlite.org/wal.html) · [organizer questions](hackathon/ORGANIZERS.md).
 
 ## Six stages of the engagement
 
